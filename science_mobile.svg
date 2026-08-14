@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" fill="none"/>
+  <!-- Phone outline -->
+  <rect x="28" y="15" width="44" height="70" rx="8" ry="8" fill="none" stroke="#2563EB" stroke-width="4"/>
+  <line x1="44" y1="21" x2="56" y2="21" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+  <!-- Atom orbits inside -->
+  <ellipse cx="50" cy="50" rx="16" ry="7" fill="none" stroke="#2563EB" stroke-width="3" transform="rotate(-30 50 50)"/>
+  <ellipse cx="50" cy="50" rx="16" ry="7" fill="none" stroke="#2563EB" stroke-width="3" transform="rotate(30 50 50)"/>
+  <circle cx="50" cy="50" r="4" fill="#2563EB"/>
+</svg>

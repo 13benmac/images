@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" fill="none"/>
+  <!-- Flask outline -->
+  <path d="M42 20 h16 v15 l18 35 a5 5 0 0 1 -4 7 h-44 a5 5 0 0 1 -4 -7 l18 -35 v-15 z" fill="none" stroke="#0D522C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 20 h20" fill="none" stroke="#0D522C" stroke-width="4" stroke-linecap="round"/>
+  <!-- Leaf / Plant growing -->
+  <path d="M50 72 v-22" fill="none" stroke="#0D522C" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M50 62 c-10 -3 -12 -12 -12 -12 c6 0 12 4 12 12" fill="#0D522C" opacity="0.15"/>
+  <path d="M50 62 c-10 -3 -12 -12 -12 -12 c6 0 12 4 12 12" fill="none" stroke="#0D522C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 54 c10 -3 12 -12 12 -12 c-6 0 -12 4 -12 12" fill="#0D522C" opacity="0.15"/>
+  <path d="M50 54 c10 -3 12 -12 12 -12 c-6 0 -12 4 -12 12" fill="none" stroke="#0D522C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
